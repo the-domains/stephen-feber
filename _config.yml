@@ -1,0 +1,28 @@
+name: Stephen Feber
+favicon: null
+layout_spectrum: 0.6211544768884778
+typography_spectrum: 0.3273831130936742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.33895372273400426
+  lightness: 0.605526922037825
+  saturation: 0.6614473599474877
+  rhythmicContrast: 0.6251851625274867
+purpose: []
