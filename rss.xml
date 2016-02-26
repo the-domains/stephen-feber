@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Stephen Feber]]></title>
         <description><![CDATA[Stephen Feber]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stephen-feber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 19:54:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 20:05:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stephen-feber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DECISION MAKING - THE MRL LENS ON LEADERSHIP]]></title>
             <description><![CDATA[<article><h1>DECISION MAKING - THE MRL LENS ON LEADERSHIP</h1><p>Leadership is the exercise of the power to make decisions in the service of an organisation; whatever else the leader does during his or her time in the 'hot seat', the decisions they take will define their leadership term, for good or ill. The organisations they lead and eventually leave behind, are a record of those decisions.  MRL, therefore, focuses on this as a key aspect of leadership for the aspiring leader, and we identify four attributes and four abilities that go to support the decision-making process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e093d8fd2607e0d90e2d65992f2bf94baaa8bdd.jpg"></article>]]></description>
-            <link>undefined41f1792f-b513-4c47-9d25-4f74a490c58d/index.html</link>
+            <link>https://thegrid.ai/stephen-feber/41f1792f-b513-4c47-9d25-4f74a490c58d/index.html</link>
             <guid isPermaLink="false">41f1792f-b513-4c47-9d25-4f74a490c58d</guid>
-            <pubDate>Fri, 26 Feb 2016 19:53:06 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 20:04:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
